@@ -9,14 +9,29 @@ export class IndexController {
     private readonly indexService: IndexService,
     @Inject(REDIS_KEY) private readonly redis: Redis,
   ) {}
-  @Get("/")
-  version() {
-    return `<html><h2>哈哈哈哈哈</h2></html>`;
+
+  @Get("/insertMongo")
+  async insertMongo() {
+    await this.indexService.insert({
+      name: "test",
+      password: "123456",
+      sign: "你是谁",
+    });
+    return "ok";
   }
 
-  // {
-  //   name: "test",
-  //   password: "123456",
-  //   sign: "你是谁",
-  // }
+  @Get("/insertRedis")
+  async insertRedis() {
+    await this.redis.set("test", "test");
+    const isExists = await this.redis.exists("test");
+    return isExists;
+  }
+
+  @Get("/getEs")
+  async insertES() {
+    // http://10.100.55.4:8004 直接get请求就可以
+    const res = await fetch("http://10.100.55.4:8004/twitter/_doc/1");
+    const text = await res.text();
+    return JSON.parse(text);
+  }
 }
