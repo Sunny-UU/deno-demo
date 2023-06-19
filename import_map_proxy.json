@@ -15,6 +15,7 @@
     "dayjs": "https://deno-mirror.uino.cn/https/deno.land/x/deno_dayjs@v0.2.1/mod.ts",
     "dayjs/plugin/": "https://deno-mirror.uino.cn/https/deno.land/x/deno_dayjs@v0.2.1/plugin/",
     "text_check": "https://deno-mirror.uino.cn/https/deno.land/x/aliyun_sdk@v0.0.3/mod.ts",
-    "jsonc": "https://deno-mirror.uino.cn/https/deno.land/x/jsonc@1/main.ts"
+    "jsonc": "https://deno-mirror.uino.cn/https/deno.land/x/jsonc@1/main.ts",
+    "deno_reflect": "https://deno-mirror.uino.cn/https/deno.land/x/deno_reflect@v0.2.1/mod.ts"
   }
 }

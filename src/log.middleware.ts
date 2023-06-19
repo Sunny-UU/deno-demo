@@ -2,8 +2,8 @@
 import { Context, Factory, Next } from "oak_nest";
 import globals from "./globals.ts";
 import { logger } from "./tools/log.ts";
-import { LogAction, LogLevel, LogType } from "./wiki/schemas/log.schema.ts";
-import { LogService } from "./wiki/services/log.service.ts";
+import { LogAction, LogLevel, LogType } from "./schemas/log.schema.ts";
+import { LogService } from "./services/log.service.ts";
 
 export async function LogMiddleware(ctx: Context, next: Next) {
   const start = Date.now();

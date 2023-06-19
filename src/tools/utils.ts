@@ -3,10 +3,33 @@ import * as posix from "std/path/posix.ts";
 import { Cache, nanoid } from "utils";
 import { BadRequestException } from "oak_exception";
 import { parse as parseYaml } from "std/yaml/mod.ts";
-import { ObjectId } from "deno_mongo_schema";
+import { Constructor, ObjectId } from "deno_mongo_schema";
 import * as _ from "lodash";
 import dayjs from "dayjs";
 import { weekOfYear } from "dayjs/plugin/weekOfYear.ts";
+import { validateOrReject, ValidationError } from "deno_class_validator";
+
+export async function validate(
+  Cls: Constructor,
+  value: Record<string, any>,
+): Promise<string[]> {
+  const post = new Cls();
+  Object.assign(post, value);
+  const msgs: string[] = [];
+  try {
+    await validateOrReject(post);
+  } catch (errors) {
+    // console.debug(errors);
+    errors.forEach((err: ValidationError) => {
+      if (err.constraints) {
+        Object.values(err.constraints).forEach((element) => {
+          msgs.push(element);
+        });
+      }
+    });
+  }
+  return msgs;
+}
 
 dayjs.extend(weekOfYear);
 
