@@ -1,0 +1,29 @@
+{
+  "name": "deno_wiki",
+  "version": "5.0.6",
+  "compilerOptions": {
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "strictPropertyInitialization": false,
+    "noImplicitThis": false
+  },
+  "fmt": {
+    "files": {
+      "include": ["src/"]
+    }
+  },
+  "tasks": {
+    "dev": "deno task map; DEBUG=true deno task start:dev",
+    "start": "NPM_CONFIG_REGISTRY=https://registry.npmmirror.com deno run --allow-sys --allow-net --allow-env --allow-write --allow-read  --unstable mod.ts",
+    "start:dev": "NPM_CONFIG_REGISTRY=https://registry.npmmirror.com deno run --allow-sys --allow-net --allow-env --allow-write --allow-read  --unstable --lock deno.lock --check --watch mod.ts",
+    "map": "deno run --allow-read --allow-write https://deno-mirror.uino.cn/https/deno.land/x/deno_proxy@v1.4.1/cli/mod.ts --baseUrl https://deno-mirror.uino.cn --oldPath import_map.json --newPath import_map_proxy.json",
+    "cache": "NPM_CONFIG_REGISTRY=https://registry.npmmirror.com deno cache --lock deno.lock --unstable --lock-write mod.ts",
+    "test": "NPM_CONFIG_REGISTRY=https://registry.npmmirror.com deno test --allow-net --allow-env --allow-write --allow-read --unstable",
+    "compile": "deno compile --allow-net --allow-env --allow-write --allow-read --unstable mod.ts", // 目前还有问题，主要是上面装饰器部分特性
+    "build": "deno bundle --unstable mod.ts mod.js", // build之后代码无法运行成功，原因是代码顺序问题
+    "dist": "deno run --allow-net --allow-env --allow-write --allow-read --unstable mod.js",
+    "log": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
+    "pm2": "pm2 start --name wiki mod.ts --interpreter='deno' --interpreter-args='run --allow-net --allow-env --allow-write --allow-read --unstable'"
+  },
+  "importMap": "import_map_proxy.json"
+}

@@ -1,0 +1,29 @@
+{
+  "deno.enable": true,
+  "deno.suggest.imports.hosts": {
+    "https://deno.land": true
+  },
+  "deno.importMap": "import_map_proxy.json",
+  "deno.config": "deno.jsonc",
+  "deno.unstable": true,
+  "editor.formatOnSave": true,
+  "deno.codeLens.testArgs": [
+    "--no-check",
+    "--allow-all",
+    "--import-map",
+    "import_map_proxy.json"
+  ],
+  "deno.codeLens.test": true,
+  "deno.internalDebug": true,
+  "deno.testing.args": [
+    "--no-check",
+    "--allow-all",
+    "--import-map",
+    "import_map_proxy.json"
+  ],
+  "deno.lint": true,
+  "deno.suggest.autoImports": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  }
+}

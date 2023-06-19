@@ -1,0 +1,524 @@
+[
+  {
+    "category": 0,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/youngerlattepress.png",
+    "color": "#ffffff",
+    "self": false
+  },
+  {
+    "category": 0,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space--00-1.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 0,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space--00-2.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 0,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space--00-3.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 0,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space--00-4.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 1,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-c-01-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 1,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-c-02-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 1,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-c-03-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 1,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-c-04-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 1,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-c-05-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 1,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-c-06-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 1,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-c-07-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 1,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-c-08-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 1,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-c-09-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 1,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-c-10-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 1,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-c-11-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 1,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-c-12-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 1,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-c-13-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 1,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-c-14-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 1,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-c-15-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 1,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-c-16-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 2,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-t-01-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 2,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-t-02-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 2,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-t-03-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 2,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-t-04-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 2,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-t-05-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 2,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-t-06-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 2,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-t-07-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 2,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-t-08-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 2,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-t-09-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 2,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-t-10-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 2,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-t-11-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 2,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-t-12-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 2,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-t-13-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 2,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-t-14-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 2,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-t-15-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 2,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-t-16-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 3,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-v-01-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 3,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-v-02-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 3,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-v-03-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 3,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-v-04-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 3,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-v-05-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 3,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-v-06-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 3,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-v-07-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 3,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-v-08-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 3,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-v-09-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 3,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-v-10-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 3,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-v-11-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 3,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-v-12-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 3,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-v-13-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 3,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-v-14-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 3,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-v-15-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 3,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-v-16-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-01-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-02-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-03-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-04-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-05-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-06-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-07-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-08-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-09-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-10-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-11-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-12-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-13-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-14-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-15-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-16-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-17-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-18-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-20-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-21-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-22-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-23-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-24-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-25-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-27-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-28-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-29-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-30-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-31-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-32-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-33-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-34-l.png",
+    "color": "#000000",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-35-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  },
+  {
+    "category": 4,
+    "url": "https://cdn.uino.cn/wiki/bookcover/all/wiki-thumb-cover-space-w-36-d.png",
+    "color": "#f0eeeb",
+    "self": false
+  }
+]
